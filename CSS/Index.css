@@ -1,0 +1,11 @@
+body{
+    background-color: #918e8b;
+  }
+         #pic-one {
+             width: 90%;
+             overflow: hidden;
+         }
+         #pic-two {
+             width: 90%;
+             overflow: hidden;
+         }
